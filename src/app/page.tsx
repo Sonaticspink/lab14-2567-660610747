@@ -1,7 +1,7 @@
 "use client";
 import CommentReview from "@components/CommentReview";
 import Footer from "@components/Footer";
-import YourRating from "@components/yourRating";
+import YourRating from "@components/YourRating";
 import YourReview from "@components/YourReview";
 import { Container, Group, Pagination, Text, Title } from "@mantine/core";
 
